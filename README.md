@@ -1,1 +1,1 @@
-# Kernighan-and-Ritchie-Solns-
+# K&R Solns
