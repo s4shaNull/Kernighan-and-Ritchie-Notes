@@ -24,7 +24,7 @@ int main()
     printf("The printed value of a in %%ld formatter: %ld\n", a);
     printf("The printed value of a in %%u formatter: %u\n\n", a);
 
-    long int b = 5;
+    long int b = 5; /*The word 'int' can be omitted! */
     printf("We have a long integer b = %ld\n", b);
     b += a;
     printf("Adding a to b...\n");
